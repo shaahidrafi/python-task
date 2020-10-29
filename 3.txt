@@ -1,0 +1,14 @@
+uname = 'aman123'
+upas = '1478543'
+username = input('please enter username:')
+if username == uname:
+    password = input(f'hey {username}, please enter your password')
+    if password == upas:
+        print('hello your in logged in now')
+    else:
+            print('please enter a correct password:')
+else:
+            print('please enter valid username')
+
+    
+
