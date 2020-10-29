@@ -1,0 +1,10 @@
+Print your name 10 times using while and for loops
+
+n= 1
+while n<=10000:
+    print('rafi')
+    n=n+1
+    
+i = 1
+for i in range(10000):
+    print('kgf')
