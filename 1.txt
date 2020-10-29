@@ -1,0 +1,14 @@
+Print name,age,contact_no,email,message.
+
+print("enter your name:")
+name = input()
+print("enter your age:")
+age = int(input())
+print("\n")
+print("your contact_no:")
+contact_no = int(input())
+print("enter email:")
+email = str(input())
+print("\n")
+print("enter message:")
+message = str(input())
