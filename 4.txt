@@ -1,0 +1,13 @@
+Enter a valid name from list
+
+name = str(input('enter a name'))
+if name == 'aman':
+    print('hello aman')
+elif name == 'deep':
+    print('hello deep')
+elif name == 'singh':
+    print('hello singh')
+elif name == 'dhruv':
+    print('hello dhruv')
+else:
+    print('enter valid name')
