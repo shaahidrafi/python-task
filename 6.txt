@@ -1,0 +1,22 @@
+Design a simple calculator by python
+
+
+b = int(input('first num: '))
+c = input('operator: ')
+d = int(input('second num: '))
+if c == '+':
+   print(b + d)
+elif c == '-':
+   print(b - d)
+elif c == '*':
+   print(b * d)
+elif c == '/':
+   print(b / d)
+else:
+   print('enter correct value')
+        
+
+
+    
+    
+    
