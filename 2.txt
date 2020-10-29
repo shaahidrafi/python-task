@@ -1,0 +1,13 @@
+Checking our subscription details by username and password
+
+
+uname = "aman123"
+upas = 147852
+username = input("please enter username:")
+password = int(input("enter password:"))
+if username == uname and password == upas:
+    print("hello you are loggin")
+else:
+        print("enter correct credential")
+
+
